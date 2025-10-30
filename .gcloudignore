@@ -1,0 +1,7 @@
+# Windows-specific artifacts
+Desktop.ini
+desktop.ini
+Thumbs.db
+ehthumbs.db
+$RECYCLE.BIN/
+*.lnk
